@@ -2,7 +2,7 @@
 #     p = input_vector
 #     w = weight_vector
 #     b = bias
-#     n = p * w) + b
+#     n = (p * w) + b
 #     f = transfer_function
 #     a = transfer_function(n)
 
@@ -10,7 +10,7 @@
 #     p = input_vector
 #     W = weight_matrix
 #     b = bias_vector
-#     n = p*W) + B
+#     n = (p * W) + B
 #     f  transfer_function
 #     a = transfer_function(n)
 
